@@ -1,0 +1,18 @@
+form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+}
+
+button {
+    color: #1d3557;
+    background-color: #457b9d;
+    width: 50%;
+}
+
+button:hover {
+    color: #fff;
+    background-color: #1d3557;
+}
